@@ -20,7 +20,7 @@ int main(int argc,char* args []){
         window =  game->createWindow("SDL 2.0 Running !!");
         screensurface = game->getSurface( window );
         img = game->loadBitMap("image");
-  
+
 
         if (img != NULL){
         	SDL_BlitSurface( img, NULL, screensurface, NULL );

@@ -1,8 +1,6 @@
-SDLExamples
+SDL Game
 ===========
 
-SDL C++ Examples
+Please git clone this repository, then import the project using Eclipse Luna, there select build all, finally run.
 
-- __main.cpp__ : Simple example for create a basic SDL Application, compile on terminal running:
-                 g++ main.cpp -w -lSDL2 -o main
-- 
+Enjoy!, Happy Learning.
